@@ -1,0 +1,14 @@
+.btn-white {
+	background-color: white;
+	color: #54607e;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+	border-top: 70px;
+}
+
+.btn-white:hover {
+	background-color: #54607e;
+	color: white;
+}
